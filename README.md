@@ -17,4 +17,4 @@ Click on Create credentials and select Service account key.
 Select a service account and a key type (JSON).
 Click on Create to download the JSON key file.
 Store the key file in a secure location, outside of your project directory.
-Now that you have the authentication credentials, you can use the google-cloud-storage library to access your Google Cloud Storage buckets from your Django web application. Here in the GSAPI_connector.py file is an example of how to do this.
+Now that you have the authentication credentials, you can use the google-cloud-storage library to access your Google Cloud Storage buckets from your Django web application. Here in the `GSAPI_connector.py` file is an example of how to do this.
